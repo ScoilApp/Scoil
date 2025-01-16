@@ -21,7 +21,7 @@
 <div align="center">
     <a href="https://Swox.io/">Home Page</a> |
     <a href="https://x.com/SwoxApp">Twitter</a> |
-    <a href="https://Swox-app.gitbook.io/Swoxapp/">Whitepaper</a> |
+    <a href="https://swoxapp.gitbook.io/swox/">Whitepaper</a> |
 </div>
 <br/>
 
