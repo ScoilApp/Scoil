@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Something else?
+    url: https://github.com/swoxapp/swox/discussions
+    about: Feel free to ask and answer questions over in GitHub Discussions
+  - name: swox Community Support
+    url: swox.io
+    about: swox Community - a place to ask, learn and engage with others
