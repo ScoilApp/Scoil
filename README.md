@@ -90,7 +90,7 @@ If you have questions, you are welcome to contact us. One of the best places to 
 
 ## Contributors
 
-We would like to express our gratitude to all the individuals who have already contributed to Swox! If you have any Swox-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: awesome-Slax
+We would like to express our gratitude to all the individuals who have already contributed to Swox! If you have any Swox-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: awesome-Swox
 
 <a href="https://github.com/toeverything/affine/graphs/contributors">
   <img alt="contributors" src="https://opencollective.com/affine/contributors.svg?width=890&button=false" />
@@ -98,7 +98,7 @@ We would like to express our gratitude to all the individuals who have already c
 
 ## Self-Host
 
-Begin with Docker to deploy your own feature-rich, unrestricted version of Swox. Our team is diligently updating to the latest version. For more information on how to self-host Slax, please refer to our [documentation](https://slaxai.app/).
+Begin with Docker to deploy your own feature-rich, unrestricted version of Swox. Our team is diligently updating to the latest version. For more information on how to self-host Swox, please refer to our [documentation](https://Swoxai.app/).
 
 ## Hiring
 
