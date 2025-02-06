@@ -1,11 +1,11 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b><a href="https://swox.io">Swox</a></b><br />
+    <b><a href="https://swox.app">Swox</a></b><br />
     We are the next generation social network in the WEB3.
     <br>
 </h1>
-<a href="https://swox.io">
+<a href="https://swox.app">
     <img alt="logo" src="https://i.ibb.co/BzTDsW5/123.png" style="width: 100%">
 </a>
 <br/>
@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-    <a href="https://Swox.io/">Home Page</a> |
+    <a href="https://swox.app/">Home Page</a> |
     <a href="https://x.com/SwoxApp">Twitter</a> |
     <a href="https://swoxapp.gitbook.io/swox/">Whitepaper</a> |
 </div>
@@ -67,8 +67,8 @@ Utilizing this technology, the Swox provides a platform where all transactions, 
 
 | Bug Reports                                                                                                                                         | Feature Requests                                                                                                                                               | Questions                                                       | 
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Create a bug report](https://github.com/SwoxApp/Swox/issues) | [Submit a feature request](https://github.com/SwoxApp/Swox/issues/new?assignees=&labels=feat%2Cstory&projects=&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://Swox.io) |           |
-| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@Swox.io                                                  |
+| [Create a bug report](https://github.com/SwoxApp/Swox/issues) | [Submit a feature request](https://github.com/SwoxApp/Swox/issues/new?assignees=&labels=feat%2Cstory&projects=&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://swox.app) |           |
+| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@swox.app                                                  |
 
 Calling all developers, testers, tech writers and more! Contributions of all types are more than welcome, you can read more in [docs/types-of-contributions.md](docs/types-of-contributions.md). If you are interested in contributing code, read our [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and feel free to check out our GitHub issues to get stuck in to show us what you’re made of.
 
@@ -78,7 +78,7 @@ For **bug reports**, **feature requests** and other **suggestions** you can also
 
 
 
-If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [Swox](https://Swox.io) where you can engage with other like-minded individuals.
+If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [Swox](https://swox.app) where you can engage with other like-minded individuals.
 
 ## Ecosystem
 
@@ -106,7 +106,7 @@ Some amazing companies, including Swox, are looking for developers! Are you inte
 
 ## Email
 
-For questions and suggestions, please use this email [contact@Swox.io]
+For questions and suggestions, please use this email [contact@swox.app]
 
 ## Building
 
