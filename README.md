@@ -1,11 +1,11 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b><a href="https://x.com/SwoxProject">Swox</a></b><br />
+    <b><a href="https://x.com/ProjectSwox">Swox</a></b><br />
     We are the next generation social network in the WEB3.
     <br>
 </h1>
-<a href="https://x.com/SwoxProject">
+<a href="https://x.com/ProjectSwox">
     <img alt="logo" src="https://i.ibb.co/BzTDsW5/123.png" style="width: 100%">
 </a>
 <br/>
@@ -19,8 +19,8 @@
 <br/>
 
 <div align="center">
-    <a href="https://x.com/SwoxProject">Home Page</a> |
-    <a href="https://x.com/SwoxProject">Twitter</a> |
+    <a href="https://x.com/ProjectSwox">Home Page</a> |
+    <a href="https://x.com/ProjectSwox">Twitter</a> |
     <a href="https://swoxapp.gitbook.io/swox/">Whitepaper</a> |
 </div>
 <br/>
