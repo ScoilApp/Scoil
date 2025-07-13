@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-    <a href="https://x.com/scoilapp">Home Page</a> |
+    <a href="https://scoil.ai">Home Page</a> |
     <a href="https://x.com/scoilapp">Twitter</a> |
     <a href="https://scoilapp.gitbook.io/scoil/">Whitepaper</a> |
 </div>
