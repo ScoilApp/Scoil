@@ -6,7 +6,7 @@
     <br>
 </h1>
 <a href="https://x.com/scoilapp">
-    <img alt="logo" src="https://i.ibb.co/BzTDsW5/123.png" style="width: 100%">
+    <img alt="logo" src="https://i.ibb.co/BKY23Nfp/scoil.png" style="width: 100%">
 </a>
 <br/>
 <p align="center">
