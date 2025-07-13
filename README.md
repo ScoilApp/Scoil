@@ -1,17 +1,17 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b><a href="https://x.com/ProjectSwox">Swox</a></b><br />
+    <b><a href="https://x.com/scoilapp">Scoil</a></b><br />
     We are the next generation social network in the WEB3.
     <br>
 </h1>
-<a href="https://x.com/ProjectSwox">
+<a href="https://x.com/scoilapp">
     <img alt="logo" src="https://i.ibb.co/BzTDsW5/123.png" style="width: 100%">
 </a>
 <br/>
 <p align="center">
   A privacy-focused, local-first, open-source, and ready-to-use. <br />
-  🔔Everything's easier with Swox
+  🔔Everything's easier with Scoil
 </p>
 
 <br/>
@@ -19,9 +19,9 @@
 <br/>
 
 <div align="center">
-    <a href="https://x.com/ProjectSwox">Home Page</a> |
-    <a href="https://x.com/ProjectSwox">Twitter</a> |
-    <a href="https://swoxapp.gitbook.io/swox/">Whitepaper</a> |
+    <a href="https://x.com/scoilapp">Home Page</a> |
+    <a href="https://x.com/scoilapp">Twitter</a> |
+    <a href="https://scoilapp.gitbook.io/scoil/">Whitepaper</a> |
 </div>
 <br/>
 
@@ -46,28 +46,28 @@ Star us, and you will receive all release notifications from GitHub without any 
 
 <img src="https://i.ibb.co/ZJPrVVk/13.gif" style="width: 100%"/>
 
-## What is Swox
+## What is Scoil
 
-In the rapidly evolving digital age, the intersection of blockchain technology and social networking has opened new avenues for decentralized applications, offering unprecedented security, transparency, and user empowerment. The Swox App emerges as a pioneering platform within this domain, built on the robust Blast blockchain. This whitepaper introduces the Swox, detailing its innovative approach to social networking through decentralized technologies and highlighting its potential to redefine online interactions.
+In the rapidly evolving digital age, the intersection of blockchain technology and social networking has opened new avenues for decentralized applications, offering unprecedented security, transparency, and user empowerment. The Scoil App emerges as a pioneering platform within this domain, built on the robust Blast blockchain. This whitepaper introduces the Scoil, detailing its innovative approach to social networking through decentralized technologies and highlighting its potential to redefine online interactions.
 
 ## The Need for Decentralization in Social Networking
 
 Traditional social networks are predominantly centralized, which often leads to significant concerns over privacy, data ownership, and transparency. Users frequently surrender control of their personal data to centralized entities that profit from their information without adequate compensation or privacy safeguards. Moreover, these platforms are susceptible to single points of failure, which can compromise user data and service availability.
 
-The Swox project was conceived to address these critical issues by leveraging the inherent benefits of blockchain technology, such as decentralization, immutability, and transparency, to create a new paradigm in social networking.
+The Scoil project was conceived to address these critical issues by leveraging the inherent benefits of blockchain technology, such as decentralization, immutability, and transparency, to create a new paradigm in social networking.
 
 
 ## The Blast Blockchain: A Foundation for Innovation
 
-The Swox App is built on the Blast blockchain, known for its high scalability, low transaction fees, and robust security features. The Blast blockchain utilizes a proof-of-stake (PoS) consensus mechanism, which not only ensures faster transactions but also significantly reduces the environmental impact compared to traditional proof-of-work systems.
+The Scoil App is built on the Blast blockchain, known for its high scalability, low transaction fees, and robust security features. The Blast blockchain utilizes a proof-of-stake (PoS) consensus mechanism, which not only ensures faster transactions but also significantly reduces the environmental impact compared to traditional proof-of-work systems.
 
-Utilizing this technology, the Swox provides a platform where all transactions, interactions, and data exchanges are recorded on the blockchain, ensuring a transparent, secure, and user-centric experience.
+Utilizing this technology, the Scoil provides a platform where all transactions, interactions, and data exchanges are recorded on the blockchain, ensuring a transparent, secure, and user-centric experience.
 
 ## Contributing
 
 | Bug Reports                                                                                                                                         | Feature Requests                                                                                                                                               | Questions                                                       | 
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Create a bug report](https://github.com/SwoxApp/Swox/issues) | [Submit a feature request](https://github.com/SwoxApp/Swox/issues/new?assignees=&labels=feat%2Cstory&projects=&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://x.com/SwoxApp) |           |
+| [Create a bug report](https://github.com/ScoilApp/Scoil/issues) | [Submit a feature request](https://github.com/ScoilApp/Scoil/issues/new?assignees=&labels=feat%2Cstory&projects=&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://x.com/ScoilApp) |           |
 | Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact                                                  |
 
 Calling all developers, testers, tech writers and more! Contributions of all types are more than welcome, you can read more in [docs/types-of-contributions.md](docs/types-of-contributions.md). If you are interested in contributing code, read our [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and feel free to check out our GitHub issues to get stuck in to show us what you’re made of.
@@ -78,19 +78,19 @@ For **bug reports**, **feature requests** and other **suggestions** you can also
 
 
 
-If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [Swox](https://x.com/SwoxApp) where you can engage with other like-minded individuals.
+If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [Scoil](https://x.com/ScoilApp) where you can engage with other like-minded individuals.
 
 ## Ecosystem
 
 | Name                                             |                            |                                                                                                                                         |
 | ------------------------------------------------ | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [@Swox/component](packages/frontend/component) | Swox Component Resources | ![](https://img.shields.io/codecov/c/github/toeverything/affine?style=flat-square)                                                      |
-| [@Swox/theme](packages/common/theme)     | Swox theme               | [![](https://img.shields.io/npm/dm/@toeverything/theme?style=flat-square&color=eee)](https://www.npmjs.com/package/@toeverything/theme) |
+| [@Scoil/component](packages/frontend/component) | Scoil Component Resources | ![](https://img.shields.io/codecov/c/github/toeverything/affine?style=flat-square)                                                      |
+| [@Scoil/theme](packages/common/theme)     | Scoil theme               | [![](https://img.shields.io/npm/dm/@toeverything/theme?style=flat-square&color=eee)](https://www.npmjs.com/package/@toeverything/theme) |
 
 
 ## Contributors
 
-We would like to express our gratitude to all the individuals who have already contributed to Swox! If you have any Swox-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: awesome-Swox
+We would like to express our gratitude to all the individuals who have already contributed to Scoil! If you have any Scoil-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: awesome-Scoil
 
 <a href="https://github.com/toeverything/affine/graphs/contributors">
   <img alt="contributors" src="https://opencollective.com/affine/contributors.svg?width=890&button=false" />
@@ -98,11 +98,11 @@ We would like to express our gratitude to all the individuals who have already c
 
 ## Self-Host
 
-Begin with Docker to deploy your own feature-rich, unrestricted version of Swox. Our team is diligently updating to the latest version. For more information on how to self-host Swox, please refer to our [documentation](https://Swoxai.app/).
+Begin with Docker to deploy your own feature-rich, unrestricted version of Scoil. Our team is diligently updating to the latest version. For more information on how to self-host Scoil, please refer to our [documentation](https://Scoilai.app/).
 
 ## Hiring
 
-Some amazing companies, including Swox, are looking for developers! Are you interested in joining Swox or its partners? Check out our Discord channel for some of the latest jobs available.
+Some amazing companies, including Scoil, are looking for developers! Are you interested in joining Scoil or its partners? Check out our Discord channel for some of the latest jobs available.
 
 ## Email
 
@@ -113,11 +113,11 @@ For questions and suggestions, please use this email []
 ### Codespaces
 
 From the GitHub repo main page, click the green "Code" button and select "Create codespace on master". This will open a new Codespace with the (supposedly auto-forked
-Swox repo cloned, built, and ready to go.
+Scoil repo cloned, built, and ready to go.
 
 ### Local
 
-See [BUILDING.md] for instructions on how to build Swox from source code.
+See [BUILDING.md] for instructions on how to build Scoil from source code.
 
 ## Contributing
 
