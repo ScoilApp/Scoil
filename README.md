@@ -1,11 +1,11 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b><a href="https://x.com/scoilapp">Scoil</a></b><br />
+    <b><a href="https://x.com/AppScoil">Scoil</a></b><br />
     We are the next generation social network in the WEB3.
     <br>
 </h1>
-<a href="https://x.com/scoilapp">
+<a href="https://x.com/AppScoil">
     <img alt="logo" src="https://i.ibb.co/BKY23Nfp/scoil.png" style="width: 100%">
 </a>
 <br/>
@@ -20,8 +20,8 @@
 
 <div align="center">
     <a href="https://scoil.ai">Home Page</a> |
-    <a href="https://x.com/scoilapp">Twitter</a> |
-    <a href="https://scoilapp.gitbook.io/scoil/">Whitepaper</a> |
+    <a href="https://x.com/AppScoil">Twitter</a> |
+    <a href="https://AppScoil.gitbook.io/scoil/">Whitepaper</a> |
 </div>
 <br/>
 
@@ -67,7 +67,7 @@ Utilizing this technology, the Scoil provides a platform where all transactions,
 
 | Bug Reports                                                                                                                                         | Feature Requests                                                                                                                                               | Questions                                                       | 
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Create a bug report](https://github.com/ScoilApp/Scoil/issues) | [Submit a feature request](https://github.com/ScoilApp/Scoil/issues/new?assignees=&labels=feat%2Cstory&projects=&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://x.com/ScoilApp) |           |
+| [Create a bug report](https://github.com/AppScoil/Scoil/issues) | [Submit a feature request](https://github.com/AppScoil/Scoil/issues/new?assignees=&labels=feat%2Cstory&projects=&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://x.com/AppScoil) |           |
 | Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact                                                  |
 
 Calling all developers, testers, tech writers and more! Contributions of all types are more than welcome, you can read more in [docs/types-of-contributions.md](docs/types-of-contributions.md). If you are interested in contributing code, read our [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and feel free to check out our GitHub issues to get stuck in to show us what you’re made of.
@@ -78,7 +78,7 @@ For **bug reports**, **feature requests** and other **suggestions** you can also
 
 
 
-If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [Scoil](https://x.com/ScoilApp) where you can engage with other like-minded individuals.
+If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [Scoil](https://x.com/AppScoil) where you can engage with other like-minded individuals.
 
 ## Ecosystem
 
